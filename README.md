@@ -3,10 +3,6 @@ Java 8 容器
 
 ![Alt text](img/total.png)
 
-
-
-
-
 ## List 结构图
 
 ![Alt text](img/List.png)
